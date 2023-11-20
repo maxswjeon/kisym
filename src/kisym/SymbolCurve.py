@@ -1,7 +1,7 @@
-from Fill import Fill
-from Points import Points
-from Stroke import Stroke
-from SymbolItem import SymbolItem
+from .Fill import Fill
+from .Points import Points
+from .Stroke import Stroke
+from .SymbolItem import SymbolItem
 
 
 class SymbolCurve(SymbolItem):

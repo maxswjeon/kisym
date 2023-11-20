@@ -1,6 +1,6 @@
-from Fill import Fill
-from Stroke import Stroke
-from SymbolItem import SymbolItem
+from .Fill import Fill
+from .Stroke import Stroke
+from .SymbolItem import SymbolItem
 
 
 class SymbolCircle(SymbolItem):

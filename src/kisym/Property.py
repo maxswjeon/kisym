@@ -1,5 +1,5 @@
-from Effects import Effects
-from Position import Position
+from .Effects import Effects
+from .Position import Position
 
 
 class Property:

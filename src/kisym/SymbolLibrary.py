@@ -1,4 +1,4 @@
-from Symbol import Symbol
+from .Symbol import Symbol
 
 VERSION = 20220914
 

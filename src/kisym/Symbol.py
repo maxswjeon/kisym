@@ -1,7 +1,7 @@
-from Property import Property
-from SymbolItem import SymbolItem
-from SymbolPin import SymbolPin
-from SymbolRectangle import SymbolRectangle
+from .Property import Property
+from .SymbolItem import SymbolItem
+from .SymbolPin import SymbolPin
+from .SymbolRectangle import SymbolRectangle
 
 
 class Symbol:

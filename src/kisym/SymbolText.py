@@ -1,6 +1,6 @@
-from Effects import Effects
-from Position import Position
-from SymbolItem import SymbolItem
+from .Effects import Effects
+from .Position import Position
+from .SymbolItem import SymbolItem
 
 
 class SymbolText(SymbolItem):
